@@ -1,0 +1,1 @@
+docker build -t agilex_limo_gazebo .

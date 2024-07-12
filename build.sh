@@ -1,1 +1,1 @@
-docker build -t agilex_limo_gazebo .
+docker build --pull=true -t agilex_limo_gazebo .
